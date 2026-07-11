@@ -6,7 +6,7 @@
 
 ## What we build
 
-- **[sugra.ai](https://sugra.ai)** - hosted unified data aggregation API. One API key reaches 1,400+ endpoints across 130+ primary sources and 32 data domains, spanning financial markets, macroeconomics, company fundamentals, government, news, climate, maritime, trade, and entity screening. Normalized JSON envelope, fallback chains for reliability.
+- **[sugra.ai](https://sugra.ai)** - hosted unified data aggregation API. One API key reaches 1,400+ endpoints across 140+ primary sources and 32 data domains, spanning financial markets, macroeconomics, company fundamentals, government, news, climate, maritime, trade, and entity screening. Normalized JSON envelope, fallback chains for reliability.
 
 - **[app.sugra.ai/mcp](https://app.sugra.ai/mcp)** - Model Context Protocol gateway connecting LLM agents to that catalog. Works with Anthropic Claude, OpenAI GPT, Google Gemini, xAI, and any MCP-enabled client. Available as `pip install sugra-api-mcp`.
 
@@ -17,7 +17,7 @@
 Public repositories and packages:
 
 - [openbb-sugra](https://github.com/Sugra-Systems/openbb-sugra) - Sugra data provider for the OpenBB Platform, 73 data models from one key (`pip install openbb-sugra`)
-- [prod-sugra-ai-MCP](https://github.com/Sugra-Systems/prod-sugra-ai-MCP) - MCP gateway connector (`pip install sugra-api-mcp`)
+- [Sugra MCP](https://github.com/Sugra-Systems/prod-sugra-ai-MCP) - MCP gateway connector (`pip install sugra-api-mcp`)
 - [sugra-mcp-quickstart](https://github.com/Sugra-Systems/sugra-mcp-quickstart) - connect an LLM agent to world data in two minutes (Python and TypeScript)
 - [sugra-api-cookbook](https://github.com/Sugra-Systems/sugra-api-cookbook) - runnable developer recipes, one API, every domain
 - [sugra-research-agent](https://github.com/Sugra-Systems/sugra-research-agent) - open-source research agent over the Sugra API
