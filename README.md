@@ -6,13 +6,13 @@
 
 ## What we build
 
-One API, three ways to reach it.
+Two products on one data service.
 
-- **[sugra.ai](https://sugra.ai)** - Sugra API (live). Hosted cross-domain data API for AI agents and decision platforms. One API key reaches 1,500+ endpoints across 160+ primary sources and 36 data domains, spanning financial markets, macroeconomics, company fundamentals, government, news, climate, maritime, trade, and entity screening - delivered as LLM-ready JSON with fallback chains for reliability. Manage keys, usage, and billing in the console at [app.sugra.ai](https://app.sugra.ai).
+- **[app.sugra.ai/mcp](https://app.sugra.ai/mcp)** - Sugra MCP (live). The connector for AI assistants: Claude, ChatGPT, Cursor and any MCP client reach the data as tools, through the hosted server or the `sugra-api-mcp` package (`pip install sugra-api-mcp`).
 
-- **[app.sugra.ai/mcp](https://app.sugra.ai/mcp)** - Sugra API MCP (live). Model Context Protocol gateway that turns every endpoint into an agent tool. The hosted gateway and the `sugra-api-mcp` package work with Anthropic Claude, OpenAI GPT, Google Gemini, xAI, and any MCP-enabled client. Available as `pip install sugra-api-mcp`.
+- **[sugra.ai](https://sugra.ai)** - Sugra API (live). Direct key access for code, pipelines and AI that calls HTTP. One API key reaches 1,600+ endpoints across 160+ primary sources and 36 data domains, spanning financial markets, macroeconomics, company fundamentals, government, news, climate, maritime, trade, and entity screening - delivered as LLM-ready JSON with fallback chains for reliability. Manage keys, usage, and billing in the console at [app.sugra.ai](https://app.sugra.ai).
 
-- **Sugra Assist** - coming soon. A conversational helper for the API. Ask for the data you need - Sugra Assist finds the right endpoint, picks the source, and shows you how to call it.
+Both read **Sugra Data**, our data service, in seven directions: Sugra Finance, Sugra Macro, Sugra Entity, Sugra NetAtlas, Sugra News, Sugra Earth and Sugra Research.
 
 ## Open source
 
@@ -26,11 +26,11 @@ Public repositories and packages:
 
 ## Connect
 
-[Website](https://sugra.systems) - [API Docs](https://sugra.ai/docs) - [X](https://x.com/sugrasystems) - [LinkedIn](https://www.linkedin.com/company/sugrasystems) - [Instagram](https://www.instagram.com/sugra.ai) - [YouTube](https://www.youtube.com/@SugraSystemsInc) - [Facebook](https://www.facebook.com/sugra.ai)
+[Website](https://sugra.systems) - [Sugra Docs](https://docs.sugra.ai) - [X](https://x.com/sugrasystems) - [LinkedIn](https://www.linkedin.com/company/sugrasystems) - [Instagram](https://www.instagram.com/sugra.ai) - [YouTube](https://www.youtube.com/@SugraSystemsInc) - [Facebook](https://www.facebook.com/sugra.ai)
 
 ## Pricing
 
-Free tier (50 req/day) - permanent trial, no credit card. Paid tiers from $25/mo. Every endpoint on every plan, volume only.
+Free (50 req/day) - permanent, no credit card, for both products. Personal with Sugra MCP, $9/mo. Dev $25/mo and Pro $59/mo with Sugra API. Enterprise by contract. Every endpoint on every plan, volume only.
 
 ## Contact
 
