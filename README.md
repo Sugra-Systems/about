@@ -8,7 +8,7 @@
 
 Two products on one data service.
 
-- **[app.sugra.ai/mcp](https://app.sugra.ai/mcp)** - Sugra MCP (live). The connector for AI assistants: Claude, ChatGPT, Cursor and any MCP client reach the data as tools, through the hosted server or the `sugra-api-mcp` package (`pip install sugra-api-mcp`).
+- **[app.sugra.ai/mcp](https://app.sugra.ai/mcp)** - Sugra MCP (live). The connector for AI assistants: Claude, Claude Code, ChatGPT, Codex, Grok, Cursor, Antigravity, GitHub Copilot, VS Code, Zed, Cline, Continue and any MCP client reach the data as tools, through the hosted server or the `sugra-api-mcp` package (`pip install sugra-api-mcp`).
 
 - **[sugra.ai](https://sugra.ai)** - Sugra API (live). Direct key access for code, pipelines and AI that calls HTTP. One API key reaches 1,600+ endpoints across 160+ primary sources and 36 data domains, spanning financial markets, macroeconomics, company fundamentals, government, news, climate, maritime, trade, and entity screening - delivered as LLM-ready JSON with fallback chains for reliability. Manage keys, usage, and billing in the console at [app.sugra.ai](https://app.sugra.ai).
 
