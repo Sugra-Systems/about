@@ -18,11 +18,10 @@ Both read **Sugra Data**, our data service, in seven directions: Sugra Finance, 
 
 Public repositories and packages:
 
-- [openbb-sugra](https://github.com/Sugra-Systems/openbb-sugra) - Sugra data provider for the OpenBB Platform, 141 data models from one key (`pip install openbb-sugra`)
 - [Sugra MCP](https://github.com/Sugra-Systems/sugra-api-mcp) - MCP gateway connector (`pip install sugra-api-mcp`)
-- [sugra-mcp-quickstart](https://github.com/Sugra-Systems/sugra-mcp-quickstart) - connect an LLM agent to world data in two minutes (Python and TypeScript)
+- [sugra-api-skills](https://github.com/Sugra-Systems/sugra-api-skills) - Agent Skills for Sugra API and Sugra MCP, over HTTPS and MCP
+- [sugra-api-plugins](https://github.com/Sugra-Systems/sugra-api-plugins) - plugins for AI coding tools, one folder per vendor, over HTTPS and MCP
 - [sugra-api-cookbook](https://github.com/Sugra-Systems/sugra-api-cookbook) - runnable developer recipes, one API, every domain
-- [sugra-research-agent](https://github.com/Sugra-Systems/sugra-research-agent) - open-source research agent over the Sugra API
 
 ## Connect
 
